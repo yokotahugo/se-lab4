@@ -1,0 +1,5 @@
+# 10. Strukturaalapu kiegeszites (JaCoCo: 61. sor sarga): primary lott utoljara,
+# a secondary ures, es mar a primary is ures
+GT4500,1,0.0,0,0.0
+TORPEDO,SINGLE  # primary
+TORPEDO,SINGLE  # secondary ures, primary is ures -> FAIL

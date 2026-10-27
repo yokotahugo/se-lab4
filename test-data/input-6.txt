@@ -1,0 +1,4 @@
+# 6. ALL: mindket tarbol lo
+GT4500,1,0.0,1,0.0
+TORPEDO,ALL
+TORPEDO,SINGLE  # utana mindketto ures -> FAIL, tehat mindketto lott

@@ -1,0 +1,3 @@
+# 9. ALL: mindket tar ures
+GT4500,0,0.0,0,0.0
+TORPEDO,ALL
