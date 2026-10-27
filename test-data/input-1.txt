@@ -1,0 +1,5 @@
+# 1. SINGLE: a tarak valtakozva lonek (a secondary mindig hibazik)
+GT4500,10,0.0,10,1.0
+TORPEDO,SINGLE  # primary
+TORPEDO,SINGLE  # secondary -> FAIL
+TORPEDO,SINGLE  # ujra primary

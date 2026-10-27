@@ -1,0 +1,3 @@
+# 7. ALL: eleg, ha legalabb az egyik sikeres
+GT4500,1,1.0,1,0.0
+TORPEDO,ALL

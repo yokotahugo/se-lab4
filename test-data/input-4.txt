@@ -1,0 +1,3 @@
+# 4. SINGLE: ha a kilott tar hibazik, a masikat nem probalja
+GT4500,1,1.0,1,0.0
+TORPEDO,SINGLE  # primary hibazik -> FAIL (ha a secondaryt is probalna, SUCCESS lenne)
